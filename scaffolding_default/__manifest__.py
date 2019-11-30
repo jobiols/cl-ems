@@ -93,6 +93,7 @@
         {'usr': 'oca', 'repo': 'stock-logistics-warehouse', 'branch': '11.0'},
         {'usr': 'oca', 'repo': 'stock-logistics-reporting', 'branch': '11.0'},
         {'usr': 'oca', 'repo': 'stock-logistics-workflow', 'branch': '11.0'},
+        {'usr': 'oca', 'repo': 'queue', 'branch': '11.0'},        
     ],
 
     # example images version 1
