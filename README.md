@@ -1,16 +1,16 @@
-CUSTOMIZACION SCAFFOLDING 
+CUSTOMIZACION ems 
 -------------------------
 
-[![Build Status](https://travis-ci.org/jobiols/cl-scaffolding.svg?branch=11.0)](https://travis-ci.org/jobiols/cl-scaffolding)
-[![CodeFactor](https://www.codefactor.io/repository/github/jobiols/cl-scaffolding/badge)](https://www.codefactor.io/repository/github/jobiols/cl-scaffolding)
+[![Build Status](https://travis-ci.org/jobiols/cl-ems.svg?branch=11.0)](https://travis-ci.org/jobiols/cl-ems)
+[![CodeFactor](https://www.codefactor.io/repository/github/jobiols/cl-ems/badge)](https://www.codefactor.io/repository/github/jobiols/cl-ems)
 
 
 instalar loca
 ~~~~~~~~~~~~~
 
-clonar repo cl-scaffolding
+clonar repo cl-ems
 
-Cambiar el nombre scaffolding por el nombre del cliente en todo el modulo.
+Cambiar el nombre ems por el nombre del cliente en todo el modulo.
 Revisar, repositorios requeridos, imagenes requeridas, documentacion.
 
 parado en el repo oe -i -c clientname

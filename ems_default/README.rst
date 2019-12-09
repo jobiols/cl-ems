@@ -1,4 +1,4 @@
-.. |customer| replace:: scaffolding
+.. |customer| replace:: ems
 
 .. |company| replace:: jeo Soft
 

@@ -6,7 +6,7 @@
 #
 oca-gen-addon-readme \
 	--org-name jobiols \
-	--repo-name cl-scaffolding \
+	--repo-name cl-ems \
 	--branch 11.0 \
 	--addons-dir $PWD \
 	--gen-html
