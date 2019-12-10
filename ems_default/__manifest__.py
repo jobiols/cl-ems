@@ -46,6 +46,7 @@
     'repos': [
         {'usr': 'jobiols', 'repo': 'cl-ems', 'branch': '12.0'},
         {'usr': 'xalachi', 'repo': 'fecr', 'branch': '12.0'},
+        {'usr': 'oca', 'repo': 'server-tools', 'branch': '12.0'},
     ],
 
     # example images version 1
