@@ -45,7 +45,7 @@
     # example repos version 1
     'repos': [
         {'usr': 'jobiols', 'repo': 'cl-ems', 'branch': '12.0'},
-        {'usr': 'xalachi', 'repo': 'fecr', 'branch': '12.0'},
+        {'usr': 'Odoo-Costa-Rica', 'repo': 'localizacion-cr', 'branch': '12.0'},
         {'usr': 'oca', 'repo': 'server-tools', 'branch': '12.0'},
     ],
 
